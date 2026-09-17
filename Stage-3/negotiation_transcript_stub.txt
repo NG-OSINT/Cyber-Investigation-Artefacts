@@ -1,0 +1,51 @@
+==================================================
+TRAINING ARTEFACT, SYNTHETIC MATERIAL
+GreyHarbour & NexaNet Negotiation log excerpt
+Channel: Tor negotiation portal
+Retrieved: Case file export, partial session only
+==================================================
+
+NOTE TO ANALYST: This is a short excerpt, not a full session
+capture. Timestamps are UTC. Handles are training-only aliases
+and do not correspond to any real individual or account.
+
+--------------------------------------------------
+
+[2026-08-27 09:14 UTC] NX-CASETEAM:
+Confirming receipt of case GH-NX-0819. We've been asked to 
+request proof of data possession before any further discussion.
+
+[2026-08-27 09:41 UTC] gh_support:
+Case confirmed. Sample already sent to your board via the notice.
+184GB, mostly from HR, Finance, Contracts, Customers, VPN-backups.
+Ask your finance archive team if the staging folder audit checks out.
+
+[2026-08-27 09:42 UTC] gh_support:
+We have nothing further to prove.
+
+[2026-08-27 10:02 UTC] NX-CASETEAM:
+We need more time to assess scope internally before authorising
+any payment please. Requesting an extension on the current deadline
+
+[2026-08-27 10:19 UTC] gh_support:
+Deadline was 31 Aug 2026, 18:00 UTC. Extending to 02 Sep 2026,
+09:00 UTC as a one-time courtesy. Amount is unchanged, 2.30 BTC.
+Don't mistake the extension for patience or weakness.
+
+[2026-08-29 14:52 UTC] NX-CASETEAM:
+We're gathering internal sign-off for your payment...
+Can you confirm no data has been shared with third parties in the meantime?
+
+[2026-08-29 15:07 UTC] gh_support:
+No response in two days is more like stalling, not sign-off. Courtesy
+revoked. Your deadline reverts to the original: 31 Aug 2026, 18:00 UTC.
+The case reference and amount are unchanged. Next message we expect
+is a payment confirmation, not another status update.
+
+[2026-08-29 15:08 UTC] gh_support:
+Every port has a toll. You're spending the time we gave you
+arguing about whether to pay it.
+
+--------------------------------------------------
+[END OF EXCERPT]
+==================================================
