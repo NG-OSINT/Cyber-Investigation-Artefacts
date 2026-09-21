@@ -1,7 +1,0 @@
-investigation_ref,entry_date,entry_time,analyst,subject,action,source_or_tool,finding,related_indicator,confidence
-Brightaxle,2026-09-09,16:38,JTY,edge-sync.brightaxle-cdn.example,Domain registration lookup,WHOIS,Domain registered on 2026-09-03,203.0.113.58,HIGH
-Brightaxle,2026-09-09,16:52,JTY,203.0.113.58,Passive DNS / reverse IP lookup,PassiveDNS,Second hostname mail-relay58.brightaxle-cdn-notifications.example resolves to same IP,mail-relay58.brightaxle-cdn-notifications.example,HIGH
-Brightaxle,2026-09-09,17:15,JTY,r.aldous mailbox,Mail gateway log review,Email Gateway Logs,Phishing email located matching subject Action required file sync verification delivered 09:47,mail-relay58.brightaxle-cdn-notifications.example,HIGH
-Brightaxle,2026-09-09,17:40,JTY,phishing_notification_brightaxle.eml,Email header analysis,Header Analysis (SPF/DKIM/DMARC),SPF fail DKIM fail DMARC fail true sending domain mkt-outreach93.example not brightaxle-cdn-notifications.example,mkt-outreach93.example,HIGH
-Brightaxle,2026-09-09,18:05,JTY,MAN-OPS-WS022,Proxy and firewall log review,Proxy/Firewall Logs,Endpoint accessed verification link shortly before DNS resolution to edge-sync.brightaxle-cdn.example confirming click through,edge-sync.brightaxle-cdn.example,HIGH
-Brightaxle,2026-09-09,18:49,JTY,Brightaxle Logistics estate,DNS and proxy sweep for related indicators,SIEM/DNS Logs,No other endpoints observed querying edge-sync.brightaxle-cdn.example or 203.0.113.58 incident scoped to single host,203.0.113.58,HIGH
