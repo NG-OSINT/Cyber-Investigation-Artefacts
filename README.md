@@ -1,2 +1,4 @@
-# Cyber-Investigation-Artefacts
-This repository is for trainees and contains artefacts for the Cyber Investigation course
+# Cyber-Investigations-Course
+This repository contains artefacts and information for trainees on the Cyber Investigations course.
+
+All material is for training purposes only. All references relate to a fictitious organisation and event.
