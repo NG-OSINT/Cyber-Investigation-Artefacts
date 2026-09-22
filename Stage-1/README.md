@@ -6,7 +6,7 @@ You have been provided with:
   Two EDR alerts,
   One Proxy log,
   One Proxy policy export,
-  Two Email (.eml) files
+  Two Email (.eml) files. 
 These are synthetic artefacts created for the exercise.
 
 # What You Need to Do
